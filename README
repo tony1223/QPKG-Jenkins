@@ -14,7 +14,7 @@ http://jenkins-ci.org/
 It's a famous Continus Integration (CI) tool for project building and test,
 also a useful cronjob builder, exists a lot of plugins to improve the functionality.
 
-It was forked project from Hudson.
+It was a forked project from Hudson.
 
 
 Note:
@@ -28,8 +28,9 @@ If you need other Jenkins function,
 you could google jenkins plugins or drop me a mail.(tonylovejava[at]gmail.com )
 
 
-
-
+All the Jenkins file and folder is under /share/Multimedia/JenkinsHome ,
+if it's not working properly for some reason due to the beta version, 
+you could find the log in "/share/Multimedia/JenkinsHome/log" for more info.
 
 -------------------------------------------------------------
 
@@ -63,3 +64,7 @@ btw, Jenkins 是從 Hudson 專案 fork 出來的社群分支。
 2.裝 jenkins git plugin 
 
 其餘部份請參考網路上 Jenkins 教學或來信討論 tonylovejava[at]gmail.com。
+
+所有 Jenkins 檔案會放在 /share/Multimedia/JenkinsHome ，如果安裝或啟動時有發生任何異狀，
+可以到 "/share/Multimedia/JenkinsHome/log" 查看啟動 log 並與我聯繫.
+
