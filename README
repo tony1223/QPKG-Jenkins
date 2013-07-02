@@ -1,0 +1,65 @@
+
+Here's my QPKG practice ,let me know if you have any question for the QPKG. 
+(tonylovejava[at]gmail.com).
+
+
+QPKG Download:
+http://files.tonyq.org/qpkg/Jenkins_0.1.qpkg
+
+Require: QPKG-JRE 
+
+About Jenkins:
+http://jenkins-ci.org/ 
+
+It's a famous Continus Integration (CI) tool for project building and test,
+also a useful cronjob builder, exists a lot of plugins to improve the functionality.
+
+It was forked project from Hudson.
+
+
+Note:
+If you want to use git in QPKG-Jenkins,
+you have to do the following process:
+
+1.install QPKG-git and setup the git command properly with your git name/email.
+2.Install Jenkins git client plugin from Jenkin's web interface
+
+If you need other Jenkins function,
+you could google jenkins plugins or drop me a mail.(tonylovejava[at]gmail.com )
+
+
+
+
+
+-------------------------------------------------------------
+
+這是我試著包 Qnap QPKG 的練習，有興趣的人歡迎玩玩或給我建議，謝謝。 :D
+
+QPKG download:
+http://files.tonyq.org/qpkg/Jenkins_0.1.qpkg
+
+
+需要先安裝 JRE QKPG。
+
+
+關於 Jenkins ：
+
+一個自動化 checkout project & build/test 的工具，
+這類工具一般常稱為 CI (continuous integration) /持續性整合 工具。
+http://jenkins-ci.org/
+
+
+相關介紹
+http://tw.polydice.com/2011/11/28/jenkins-ios-app/
+http://blog.gasolin.idv.tw/2011/08/jenkinsandroid.html
+http://www.dotblogs.com.tw/kirkchen/archive/2012/05/14/install_and_setting_jenkins_as_ci_server.aspx
+
+btw, Jenkins 是從 Hudson 專案 fork 出來的社群分支。
+
+-----
+註：如果你想要 checkout git project 出來 build，目前還需要進行以下動作：
+
+1.裝 git QKPG , 並設定好 git user name 跟 git user email
+2.裝 jenkins git plugin 
+
+其餘部份請參考網路上 Jenkins 教學或來信討論 tonylovejava[at]gmail.com。
